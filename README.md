@@ -32,6 +32,10 @@ As above, but replace the repo links being added with your own repos.
 
 Please send your pull requests! Note that taking pulls to this repo is my personal decision. If you don't like the things I choose to highlight you can use this system to make your own.
 
+Each story should go in its own .yaml file in a directory based on the date. title and url fields are required, at least one tag is recommended. desc field is optional.
+
+Stories are displayed in alphabetical order based on file name. Place your files in whatever order makes the most sense to you.
+
 ## FAQ
 
 ### WHY?
