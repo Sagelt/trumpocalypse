@@ -49,3 +49,6 @@ Yep.
 ### Why Jekyll/Git/YAML/Bootstrap instead of X/Y/Z?
 
 I used stuff I like. I was more interested in creating a tool anyone could fork and host themselves than fancy CMS features.
+
+### Where can I see a live version?
+I host [a live version on my site](http://svirfnebl.in/pages/trumpocalypse/) which is also [based on a git repo](https://github.com/Sagelt/svirfneblin).
